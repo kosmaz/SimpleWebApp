@@ -1,0 +1,4 @@
+[2016-Sep-04 12:37:27.569186] 10463 - [info] "config: reading Wt config file: server-config/server0_config.xml (location = '')"
+[2016-Sep-04 12:37:28.550651] 10463 - [info] "wthttp: reading wthttpd configuration from: server-config/wthttpd"
+[2016-Sep-04 12:37:28.551012] 10463 - [info] "WServer/wthttp: initializing built-in wthttpd"
+[2016-Sep-04 12:37:28.720472] 10463 - [info] "wthttp: started server: http://127.0.0.1:8081"

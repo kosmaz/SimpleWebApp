@@ -1,0 +1,4 @@
+[2016-Sep-04 12:37:27.574246] 10468 - [info] "config: reading Wt config file: server-config/server5_config.xml (location = '')"
+[2016-Sep-04 12:37:28.550650] 10468 - [info] "wthttp: reading wthttpd configuration from: server-config/wthttpd"
+[2016-Sep-04 12:37:28.551026] 10468 - [info] "WServer/wthttp: initializing built-in wthttpd"
+[2016-Sep-04 12:37:28.739498] 10468 - [info] "wthttp: started server: http://127.0.0.1:8086"
